@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(54, 54, 231);
+    color: azure;
+}
+
+* {
+   margin: 0;
+   padding: 0;
+}
